@@ -1,0 +1,24 @@
+{
+  "name": "git-graphql-practice",
+  "version": "1.0.0",
+  "description": "Basic og Git and GraphQl",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTBC-Go-BB11/graphql-basics.git"
+  },
+  "author": "Bilal Bangash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MTBC-Go-BB11/graphql-basics/issues"
+  },
+  "homepage": "https://github.com/MTBC-Go-BB11/graphql-basics#readme",
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "graphql": "^14.6.0"
+  }
+}
